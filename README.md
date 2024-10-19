@@ -1,0 +1,1 @@
+Finally I have finished data structures. Now I'm trying to draw a graph with matplotlib.
